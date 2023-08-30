@@ -1,4 +1,15 @@
+.centered-div {
+  margin: auto;
+  width: 60%;
+}
 .centered {
-    text-align: center;
-  }
-  
+  text-align: center;
+}
+
+.picture {
+  height: 20%;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
